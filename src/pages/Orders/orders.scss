@@ -1,0 +1,18 @@
+.orders {
+  &__top {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    &-btn {
+      background: #0d6efd;
+      color: white;
+    }
+    &-btn + &-btn {
+      margin-left: 10px;
+    }
+  }
+  &__search {
+    width: 800px;
+  }
+}

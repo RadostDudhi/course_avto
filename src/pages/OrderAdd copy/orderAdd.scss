@@ -1,0 +1,21 @@
+.order__add {
+  position: relative;
+  &-title {
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-family: inherit;
+    margin-bottom: 15px;
+  }
+  &-main {
+    display: flex;
+    padding: 20px;
+    &-product-item {
+      display: flex;
+      align-items: flex-end;
+      &-btn {
+        margin-bottom: 10px;
+      }
+    }
+  }
+}
