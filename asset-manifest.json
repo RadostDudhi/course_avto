@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/course_avto/static/css/main.985dc5a1.css",
+    "main.js": "/course_avto/static/js/main.70b8ca76.js",
+    "index.html": "/course_avto/index.html",
+    "main.985dc5a1.css.map": "/course_avto/static/css/main.985dc5a1.css.map",
+    "main.70b8ca76.js.map": "/course_avto/static/js/main.70b8ca76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.985dc5a1.css",
+    "static/js/main.70b8ca76.js"
+  ]
+}
